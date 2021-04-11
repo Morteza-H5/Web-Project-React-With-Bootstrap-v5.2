@@ -1,4 +1,4 @@
-//                                                 برنامه‌نویس و توسعه‌دهنده مرتضی هوشمند      
+
 import { Component } from "react";
 
 class Body extends Component {

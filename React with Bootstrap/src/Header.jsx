@@ -1,4 +1,3 @@
-//                                             برنامه‌نویس و توسعه‌دهنده مرتضی هوشمند                        
 import {Component}  from 'react';
 
 
